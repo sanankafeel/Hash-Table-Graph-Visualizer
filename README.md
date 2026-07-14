@@ -50,5 +50,9 @@ Hash Table & Graph/
 - Minimum Spanning Tree algorithms
 - Dark mode interface
 
+<img width="975" height="309" alt="image" src="https://github.com/user-attachments/assets/ed80b3c1-5438-43fb-b8f0-a8a7a23f52b9" />
+<img width="1410" height="678" alt="image" src="https://github.com/user-attachments/assets/dc6944bf-e405-43c4-98fc-d045262fb3f6" />
+
+
 
 Developed by **Sanan Kafeel**
