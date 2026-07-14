@@ -50,10 +50,5 @@ Hash Table & Graph/
 - Minimum Spanning Tree algorithms
 - Dark mode interface
 
-## 📸 Preview
-
-*Add screenshots of your application here.*
-
----
 
 Developed by **Sanan Kafeel**
